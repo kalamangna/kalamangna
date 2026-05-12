@@ -1,6 +1,6 @@
-# Hey there, I'm Kalamangna 👋
+# Hey there, I'm Abd Dzuljalali Wal Ikram 👋
 
-**Frontend Developer** | Building Beautiful & Responsive Web Experiences | Based in Makassar, Indonesia 🇮🇩
+**Frontend Developer** | Building Beautiful & Responsive Web Experiences | Based in Sinjai, Indonesia 🇮🇩
 
 ---
 
@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer dedicated to creating clean, intuitive, and 
 - 💻 **Specializing in**: Frontend development with modern frameworks and tools
 - 🧠 **Learning**: Best practices in web performance and user experience
 - 🤝 **Open to**: Collaborating on interesting projects and contributing to open-source
-- 📍 **Location**: Makassar, Indonesia
+- 📍 **Location**: Sinjai, Indonesia
 
 ---
 
