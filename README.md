@@ -51,7 +51,7 @@ Let's collaborate and build something amazing together!
 
 - **LinkedIn**: [linkedin.com/in/kalamangna](https://www.linkedin.com/in/kalamangna/)
 - **GitHub**: [@kalamangna](https://github.com/kalamangna)
-- **Location**: 📍 Makassar, Indonesia
+- **Location**: 📍 Sinjai, Indonesia
 
 ---
 
