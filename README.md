@@ -1,15 +1,29 @@
-# Abd Dzuljalali Wal Ikram
+# Hey, I'm Abed 👋
 
-Web developer based in Sinjai, Indonesia.
+**Web Developer**
 
-I build web applications and digital services with a focus on simplicity, usability, and performance.
+I build web applications and digital services — mostly for real-world problems in the public sector.
 
-### Stack
+### What I work with
 
+**Development**
 `PHP` `CodeIgniter` `Laravel` `JavaScript` `Nuxt` `Tailwind CSS`
 
-### Currently
+**Tools & Workflow**
+`Git` `GitHub` `AI-assisted Development`
 
-Building and maintaining digital platforms for public services and government organizations.
+### Now
 
-Exploring AI-assisted development and better ways to build simple, useful software.
+🚀 Building digital platforms and services for government organizations
+🎨 Designing interfaces that are simple, useful, and easy to use
+🤖 Exploring AI as part of the development workflow
+
+### Beyond Code
+
+⚽ Coffee · Mini Soccer
+
+---
+
+<p align="center">
+  <i>Build useful things. Keep them simple.</i>
+</p>
