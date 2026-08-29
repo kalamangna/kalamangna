@@ -1,70 +1,15 @@
-# Hey there, I'm Abd Dzuljalali Wal Ikram 👋
+# Abd Dzuljalali Wal Ikram
 
-**Frontend Developer** | Building Beautiful & Responsive Web Experiences | Based in Sinjai, Indonesia 🇮🇩
+Web developer based in Sinjai, Indonesia.
 
----
+I build web applications and digital services with a focus on simplicity, usability, and performance.
 
-## 🚀 About Me
+### Stack
 
-I'm a passionate Frontend Developer dedicated to creating clean, intuitive, and responsive web applications. I specialize in crafting user-friendly interfaces and delivering high-quality code that bridges design and functionality.
+`PHP` `CodeIgniter` `Laravel` `JavaScript` `Nuxt` `Tailwind CSS`
 
-- 🎨 **Passionate about**: Creating beautiful, functional web experiences
-- 💻 **Specializing in**: Frontend development with modern frameworks and tools
-- 🧠 **Learning**: Best practices in web performance and user experience
-- 🤝 **Open to**: Collaborating on interesting projects and contributing to open-source
-- 📍 **Location**: Sinjai, Indonesia
+### Currently
 
----
+Building and maintaining digital platforms for public services and government organizations.
 
-## 💼 Skills & Tech Stack
-
-### Frontend Technologies
-- **JavaScript** - ES6+, async/await, DOM manipulation
-- **PHP Framework** - CodeIgniter 4 (full-stack capabilities)
-- **Styling** - Tailwind CSS (utility-first CSS framework)
-- **HTML5 & CSS3** - Semantic markup and modern styling
-
-### Additional Skills
-- Responsive Design & Mobile-First Development
-- RESTful API Integration
-- Git & Version Control
-- Problem-Solving & Debugging
-- Clean Code Practices
-
-### Tools & Environments
-- VS Code / Code Editors
-- Git & GitHub
-- Browser Developer Tools
-- npm / Package Managers
-
----
-
-## 🏆 Featured Projects
-
-*Explore my repositories below to see my latest work in Frontend Development with CodeIgniter 4, JavaScript, and Tailwind CSS!*
-
----
-
-## 🌐 Connect With Me
-
-Let's collaborate and build something amazing together!
-
-- **LinkedIn**: [linkedin.com/in/kalamangna](https://www.linkedin.com/in/kalamangna/)
-- **GitHub**: [@kalamangna](https://github.com/kalamangna)
-- **Location**: 📍 Sinjai, Indonesia
-
----
-
-## 💡 What I'm Interested In
-
-- Modern Frontend Development
-- Web Performance Optimization
-- UI/UX Best Practices
-- Open-Source Contribution
-- Building scalable web applications
-
----
-
-**⭐ Feel free to explore my repositories, fork them, and reach out if you'd like to collaborate on exciting projects!**
-
-*Happy coding! 🚀*
+Exploring AI-assisted development and better ways to build simple, useful software.
