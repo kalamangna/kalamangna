@@ -2,7 +2,7 @@
 
 # Abed
 
-**Web Developer · Designer · Digital Builder**
+**Full Stack Web Developer**
 
 Building web applications and digital services from **Sinjai, Indonesia**.
 
@@ -35,7 +35,7 @@ Tools         Git · GitHub · AI-assisted Development
 
 ### ⚽ Outside the Screen
 
-Football · Futsal · Mini Soccer
+Coffee · Mini Soccer
 
 ---
 
