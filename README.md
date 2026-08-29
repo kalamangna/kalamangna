@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abed
+# Abd Dzuljalali Wal Ikram
 
 **Full Stack Web Developer**
 
