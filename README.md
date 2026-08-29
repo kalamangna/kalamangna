@@ -1,29 +1,46 @@
-# Hey, I'm Abed 👋
+<div align="center">
 
-**Web Developer**
+# Abed
 
-I build web applications and digital services — mostly for real-world problems in the public sector.
+**Web Developer · Designer · Digital Builder**
 
-### What I work with
+Building web applications and digital services from **Sinjai, Indonesia**.
 
-**Development**
-`PHP` `CodeIgniter` `Laravel` `JavaScript` `Nuxt` `Tailwind CSS`
+[![GitHub](https://img.shields.io/badge/GitHub-kalamangna-181717?style=flat-square\&logo=github)](https://github.com/kalamangna)
 
-**Tools & Workflow**
-`Git` `GitHub` `AI-assisted Development`
-
-### Now
-
-🚀 Building digital platforms and services for government organizations
-🎨 Designing interfaces that are simple, useful, and easy to use
-🤖 Exploring AI as part of the development workflow
-
-### Beyond Code
-
-⚽ Coffee · Mini Soccer
+</div>
 
 ---
 
-<p align="center">
-  <i>Build useful things. Keep them simple.</i>
-</p>
+### 👋 About
+
+I build software that solves real-world problems.
+
+My work focuses on **web applications, digital services, and government platforms**, with an emphasis on simple interfaces, practical solutions, and reliable systems.
+
+### 🛠️ Stack
+
+```text
+Backend       PHP · CodeIgniter · Laravel
+Frontend      JavaScript · Nuxt · Tailwind CSS
+Tools         Git · GitHub · AI-assisted Development
+```
+
+### 🚧 Currently
+
+* Building and maintaining digital platforms for public services
+* Designing interfaces that are simple and easy to use
+* Exploring AI-assisted development workflows
+* Working on tools that make everyday processes more efficient
+
+### ⚽ Outside the Screen
+
+Football · Futsal · Mini Soccer
+
+---
+
+<div align="center">
+
+**Build useful things. Keep them simple.**
+
+</div>
